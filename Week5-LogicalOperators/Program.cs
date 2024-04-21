@@ -1,0 +1,13 @@
+﻿
+
+//AND -&&
+//TRUE&&TRUE
+//TRUE && FALSE
+//FALSE && FALSE
+
+//OR - || (PIPES)
+
+//TRUE || TRUE - TRUE
+// tRUE || FALSE - TRUE
+//FALSE || TRUE - TRIUE
+//FALSE || FALSE
